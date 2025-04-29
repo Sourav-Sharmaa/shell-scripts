@@ -1,5 +1,5 @@
 #!/bin/bash
-
+##############
 #Define paths and filename
 #
 backup_config_file="/home/sourav_simplify/arc/backup_config.txt"
