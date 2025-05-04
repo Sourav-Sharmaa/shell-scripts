@@ -5,7 +5,7 @@
 #
 ########User Introduction ##################
 echo "###########################"
-echo
+echo "This is package maanger"
 echo "this script check your linux system for popular"
 echo "what's available"
 
